@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Archmoured",
+    "link": "https://archmoured.neocities.org",
+    "image": "/img/Archmoured.png"
+  },
+  {
+    "title": "Puntoarchivos",
+    "link": "https://github.com/jvanjeddz/puntoarchivos",
+    "image": "/img/Puntoarchivos.png"
+  },
+  {
+    "title": "Structured programming stuff",
+    "link": "https://github.com/jvanjeddz/estruct-progra",
+    "image": "/img/Estruct-progra.png"
+  },
+  {
+    "title": "Database stuff",
+    "link": "https://github.com/jvanjeddz/basedatos-ejercicios",
+    "image": "/img/Basedatos.png"
+  },
+  {
+    "title": "Personal portfolio (this site)",
+    "link": "https://github.com/jvanjeddz/jvanjeddz.github.io",
+    "image": "/img/Portfolio.png"
+  },
+  {
+    "title": "Operations research stuff",
+    "link": "https://github.com/jvanjeddz/ops-research-probs",
+    "image": "/img/Ops-research-probs.png"
+  },
+  {
+    "title": "Microprocessor stuff",
+    "link": "https://github.com/jvanjeddz/microprocessor-stuff",
+    "image": "/img/Microprocessor-stuff.jpg"
+  },
+  {
+    "title": "Springboot microservices",
+    "link": "https://github.com/jvanjeddz/springboot-service-dwback",
+    "image": "/img/Springboot-service-dwback.png"
+  },
+  {
+    "title": "Bank API (.NET)",
+    "link": "https://github.com/jvanjeddz/dotnet-backend-course",
+    "image": "/img/Dotnet-backend-course.png"
+  }
+]

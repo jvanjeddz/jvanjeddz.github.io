@@ -1,0 +1,7 @@
+<div class="wrapper">
+    {{ partial "title.html" (dict "text" "About me") }}
+    <div class="about-content">
+        <p>{{ .Site.Params.about.paragraph1 }}</p>
+        <p>{{ .Site.Params.about.paragraph2 }}</p>
+    </div>
+</div>

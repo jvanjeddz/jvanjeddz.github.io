@@ -1,0 +1,36 @@
+baseURL = 'https://jvanjeddz.github.io/'
+languageCode = 'en-us'
+title = 'jvanjeddz'
+
+[params]
+  description = 'My personal portfolio'
+  author = 'jvanjeddz'
+
+[params.profile]
+  name = 'jvanjeddz'
+  title = 'Data Engineer'
+  email = 'jvanjeddz@proton.me'
+  github = 'jvanjeddz'
+  githubUrl = 'https://github.com/jvanjeddz'
+  image = '/img/p.png'
+
+[params.about]
+  paragraph1 = 'I am a Mexican data engineer with an interest in free software, electronics, data, unix-like systems and cloud computing.'
+  paragraph2 = 'Feel free to contact me. I am always eager to learn about better practices and new stuff.'
+
+[params.footer]
+  license = 'Licensed under the GNU General Public License v3.0'
+  repoUrl = 'https://github.com/jvanjeddz/jvanjeddz.github.io'
+
+[build]
+  writeStats = true
+
+[outputFormats]
+  [outputFormats.HTML]
+    mediaType = 'text/html'
+    isPlainText = false
+    isHTML = true
+    noUgly = true
+    permalinkable = true
+
+publishDir = 'docs'
