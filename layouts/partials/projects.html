@@ -1,0 +1,8 @@
+<div class="wrapper">
+    {{ partial "title.html" (dict "text" "Projects") }}
+    <div class="projects-grid">
+        {{ range .Site.Data.projects }}
+            {{ partial "project-card.html" . }}
+        {{ end }}
+    </div>
+</div>

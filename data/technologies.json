@@ -1,0 +1,66 @@
+[
+  {
+    "title": "AWS",
+    "link": "https://aws.amazon.com/"
+  },
+  {
+    "title": "Bash",
+    "link": "https://www.gnu.org/software/bash/"
+  },
+  {
+    "title": "Distrobox",
+    "link": "https://distrobox.it/"
+  },
+  {
+    "title": "Docker",
+    "link": "https://www.docker.com/"
+  },
+  {
+    "title": "Git",
+    "link": "https://git-scm.com/"
+  },
+  {
+    "title": "Google Cloud",
+    "link": "https://cloud.google.com/"
+  },
+  {
+    "title": "Linux",
+    "link": "https://github.com/torvalds/linux"
+  },
+  {
+    "title": "Podman",
+    "link": "https://podman.io/"
+  },
+  {
+    "title": "Python",
+    "link": "https://www.python.org/"
+  },
+  {
+    "title": "R",
+    "link": "https://www.r-project.org/about.html"
+  },
+  {
+    "title": "Snowflake",
+    "link": "https://www.snowflake.com/"
+  },
+  {
+    "title": "SQL",
+    "link": "https://en.wikipedia.org/wiki/SQL"
+  },
+  {
+    "title": "Streamlit",
+    "link": "https://streamlit.io/"
+  },
+{
+    "title": "Terraform",
+    "link": "https://developer.hashicorp.com/terraform#what-is-terraform"
+  },
+  {
+    "title": "Tidyverse",
+    "link": "https://tidyverse.org/"
+  },
+  {
+    "title": "Vim",
+    "link": "https://www.vim.org/"
+  }
+]

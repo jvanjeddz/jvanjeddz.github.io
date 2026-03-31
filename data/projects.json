@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Archmoured",
+    "description": "A comprehensive guide for installing Arch Linux, covering disk encryption, partitioning, and system setup.",
+    "link": "https://archmoured.neocities.org",
+    "image": "/img/Archmoured.png"
+  },
+  {
+    "title": "Puntoarchivos",
+    "description": "Personal dotfiles with a shell script for automated system configuration and setup.",
+    "link": "https://github.com/jvanjeddz/puntoarchivos",
+    "image": "/img/Puntoarchivos.png"
+  },
+  {
+    "title": "Personal portfolio (this site)",
+    "description": "My portfolio website built with Hugo, deployed to GitHub Pages.",
+    "link": "https://github.com/jvanjeddz/jvanjeddz.github.io",
+    "image": "/img/Portfolio.png"
+  },
+  {
+    "title": "Metal Live Scene Analytics",
+    "description": "Data pipeline and dashboard analyzing metal music touring trends. Built with GCP, Terraform, Prefect, dbt, and Streamlit.",
+    "link": "https://github.com/jvanjeddz/metal-live-scene-analytics",
+    "image": "/img/Metal-live-scene-analytics.png"
+  },
+  {
+    "title": "Springboot microservices",
+    "description": "Microservices architecture with service discovery (Eureka), API gateway (Zuul), and OAuth authentication.",
+    "link": "https://github.com/jvanjeddz/springboot-service-dwback",
+    "image": "/img/Springboot-service-dwback.png"
+  },
+  {
+    "title": "Bank API (.NET)",
+    "description": "Backend API for banking operations built with C# and SQL Server.",
+    "link": "https://github.com/jvanjeddz/dotnet-backend-course",
+    "image": "/img/Dotnet-backend-course.png"
+  }
+]

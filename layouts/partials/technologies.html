@@ -1,0 +1,8 @@
+<div class="wrapper">
+    {{ partial "title.html" (dict "text" "Languages and Technologies") }}
+    <div class="tech-grid">
+        {{ range .Site.Data.technologies }}
+            {{ partial "tech-container.html" . }}
+        {{ end }}
+    </div>
+</div>
